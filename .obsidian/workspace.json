@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Capital Budgeting.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Capital Budgeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Zettelkasten/Capital Budgeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Untitled.md"
+                "file": "Zettelkasten/Capital Budgeting.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "74fe45bfe8a7150d",
   "lastOpenFiles": [
-    "Templates/Core Idea note template.md",
-    "Zettelkasten/Untitled.md",
+    "Templates/Notes.md",
     "Zettelkasten/Capital Budgeting.md",
+    "Templates/Core Idea note template.md",
     "Obsidian Vault",
     "Templates",
     "Files",
