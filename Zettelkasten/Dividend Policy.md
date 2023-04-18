@@ -44,10 +44,20 @@ Acronym: *CRINC*
 	2. Declining forms IRR < Cost, Share Price v with retention ratio ^
 	3. Normal firms IRR = Cost, No impact on share policy by dividend policy
 	4. Assumptions:
-		1. 
-	5. Formula: $$\frac{E(1-b)}{K-g}$$
+		1. Internal Financing
+		2. Const IRR, Cost of Cap
+		3. Const retention ratio
+		4. Const rate of growth
+		5. Infinite life
+		6. No taxes
+		7. Capital cost > rate of growth
+	5. Criticism/Limitations:
+		1. No external financing
+		2. Constant IRR and cost of capital
+	6. Formula: $$\frac{E(1-b)}{k-g}$$
 4. Modigliani Miller Approach (3)
-	1. 
+	1. Assumptions:
+		1. 
 
 ---
 # References
