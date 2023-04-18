@@ -28,12 +28,12 @@ Acronym: *CRINC*
 1. Walter's Method (1)
 	1. Growth firms IRR>Cost, Payout ratio 0
 	2. Declining firms IRR<Cost, Payout ratio 100%
-	3. NormaI firms RR=K, Payout variable
+	3. NormaI firms IRR=Cost, Payout variable
 	4. Assumptions: 
-		1. All financing through retained earning
-		2. IRR & Cost of capital
-		3. 
-		4. 
+		1. All financing through retained earning, none external
+		2. IRR & Cost of capital are constant irrespective of investment changes
+		3. Earnings are fully retained OR fully distributed
+		4. Constant EPS and DIV
 	5. Criticism:
 		1. 
 	6. Formula: $$\frac{D}{k} + \frac{(E-D) * \frac{r}{k}}{k}$$
