@@ -2,7 +2,7 @@
 
 Status: #notes
 
-Tags:
+Tags: [[Finance]]
 
 # Concept
 ## Introduction
@@ -23,9 +23,10 @@ Tags:
 ## Factors
 *LIFT CLASS*
 
-
-
-
+## Dividend Policy Theories
+1. Walter's Method
+2. Gordon's Model
+3. 
 
 ---
 # References
