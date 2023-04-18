@@ -24,10 +24,14 @@ Tags: [[Finance]]
 *LIFT CLASS*
 
 ## Dividend Policy Theories
-1. Walter's Method
-	[https://youtu.be/2MCzUujXKts](https://youtu.be/2MCzUujXKts)
-2. Gordon's Model
-3. Modigliani Miller Approach
+1. Walter's Method (1)
+	1. Growth firms IRR>Cost, Payout ratio 0
+	2. Declining firms IRR<Cost
+2. Gordon's Model (2)
+3. Modigliani Miller Approach (3)
 
 ---
 # References
+1. https://youtu.be/2MCzUujXKts
+2. https://youtu.be/zb8Yh8vxtbo
+3. https://youtu.be/NOYLhK0UpOo
