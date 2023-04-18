@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Core idea note template.md",
+                "file": "Zettelkasten/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85ce2ffbb26ee914",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Core idea note template.md",
+                "file": "Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Core idea note template.md",
+                "file": "Zettelkasten/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Core idea note template.md"
+                "file": "Zettelkasten/Untitled.md"
               }
             }
           }
@@ -150,12 +149,13 @@
   },
   "active": "74fe45bfe8a7150d",
   "lastOpenFiles": [
-    "Templates/Core idea note template.md",
+    "Templates/Core Idea note template.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/Capital Budgeting.md",
     "Obsidian Vault",
     "Templates",
     "Files",
     "Reference Notes",
-    "Zettelkasten",
-    "Zettelkasten/Untitled.md"
+    "Zettelkasten"
   ]
 }
