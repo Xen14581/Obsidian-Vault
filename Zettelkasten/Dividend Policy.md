@@ -29,17 +29,22 @@ Acronym: *CRINC*
 	1. Growth firms IRR>Cost, Payout ratio 0
 	2. Declining firms IRR<Cost, Payout ratio 100%
 	3. NormaI firms IRR=Cost, Payout variable
-	4. Assumptions: 
+	4. Assumptions: (*ICIC 100%*)
 		1. All financing through retained earning, none external
 		2. IRR & Cost of capital are constant irrespective of investment changes
 		3. Earnings are fully retained OR fully distributed
 		4. Constant EPS and DIV
 	5. Criticism:
-		1. 
+		1. No External Financing
+		2. Constant IRR and cost of capital
 	6. Formula: $$\frac{D}{k} + \frac{(E-D) * \frac{r}{k}}{k}$$
 2. Gordon's Model (2)
-	1. Formula: $$\frac{E(1-b)}{K-g}$$
-3. Modigliani Miller Approach (3)
+	1. Growth firms IRR > Cost, Share Price ^ with retention ratio ^
+	2. Declining forms IRR < Cost, Share Price v with retention ratio ^
+	3. Normal firms IRR = Cost, No impact on share policy by dividend policy
+	4. Assumptions
+	5. Formula: $$\frac{E(1-b)}{K-g}$$
+4. Modigliani Miller Approach (3)
 	1. 
 
 ---
