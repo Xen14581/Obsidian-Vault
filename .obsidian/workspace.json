@@ -11,8 +11,12 @@
             "id": "74fe45bfe8a7150d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Core idea note template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85ce2ffbb26ee914",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Core idea note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Core idea note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Core idea note template.md"
+              }
             }
           }
         ]
@@ -141,6 +150,7 @@
   },
   "active": "74fe45bfe8a7150d",
   "lastOpenFiles": [
+    "Templates/Core idea note template.md",
     "Obsidian Vault",
     "Templates",
     "Files",
