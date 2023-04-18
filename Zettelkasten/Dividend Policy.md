@@ -34,6 +34,7 @@ Acronym: *CRINC*
 		2. IRR & Cost of capital are constant irrespective of investment changes
 		3. Earnings are fully retained OR fully distributed
 		4. Constant EPS and DIV
+		5. Infinite life of company
 	5. Criticism:
 		1. No External Financing
 		2. Constant IRR and cost of capital
@@ -42,7 +43,8 @@ Acronym: *CRINC*
 	1. Growth firms IRR > Cost, Share Price ^ with retention ratio ^
 	2. Declining forms IRR < Cost, Share Price v with retention ratio ^
 	3. Normal firms IRR = Cost, No impact on share policy by dividend policy
-	4. Assumptions
+	4. Assumptions:
+		1. 
 	5. Formula: $$\frac{E(1-b)}{K-g}$$
 4. Modigliani Miller Approach (3)
 	1. 
