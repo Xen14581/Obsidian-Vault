@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85ce2ffbb26ee914",
@@ -149,6 +150,9 @@
   },
   "active": "74fe45bfe8a7150d",
   "lastOpenFiles": [
+    "Files/Pasted image 20230418200133.png",
+    "Files/Pasted image 20230418200051.png",
+    "Files/Pasted image 20230418195641.png",
     "Templates/Notes.md",
     "Zettelkasten/Capital Budgeting.md",
     "Templates/Core Idea note template.md",
