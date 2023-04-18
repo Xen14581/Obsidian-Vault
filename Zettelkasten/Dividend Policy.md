@@ -25,8 +25,9 @@ Tags: [[Finance]]
 
 ## Dividend Policy Theories
 1. Walter's Method
+	[https://youtu.be/2MCzUujXKts](https://youtu.be/2MCzUujXKts)
 2. Gordon's Model
-3. 
+3. Modigliani Miller Approach
 
 ---
 # References
