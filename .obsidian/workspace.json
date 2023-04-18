@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Capital Budgeting.md",
+                "file": "Zettelkasten/Dividend Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Capital Budgeting.md",
+                "file": "Zettelkasten/Dividend Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Capital Budgeting.md",
+                "file": "Zettelkasten/Dividend Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Capital Budgeting.md"
+                "file": "Zettelkasten/Dividend Policy.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "74fe45bfe8a7150d",
   "lastOpenFiles": [
+    "Zettelkasten/Capital Budgeting.md",
+    "Zettelkasten/Dividend Policy.md",
     "Files/Pasted image 20230418201043.png",
     "Files/Pasted image 20230418201018.png",
     "Files/Pasted image 20230418201005.png",
@@ -158,7 +160,6 @@
     "Files/Pasted image 20230418200051.png",
     "Files/Pasted image 20230418195641.png",
     "Templates/Notes.md",
-    "Zettelkasten/Capital Budgeting.md",
     "Templates/Core Idea note template.md",
     "Obsidian Vault",
     "Templates",
