@@ -57,7 +57,16 @@ Acronym: *CRINC*
 	6. Formula: $$\frac{E(1-b)}{k-g}$$
 4. Modigliani Miller Approach (3)
 	1. Assumptions:
-		1. 
+		1. Perfect Capital markets
+		2. No taxes
+		3. Investor only concerned about total income/gain
+		4. No risk or uncertainty
+		5. Investment Policy
+	2. Criticism/Limitations:
+		1. Perfect market existence
+		2. Issuance of new securities require floatation costs
+		3. Presence of taxes
+	3. Formula: $$P1 = P0(1+k) - D$$
 
 ---
 # References
